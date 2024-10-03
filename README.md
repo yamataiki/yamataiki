@@ -1,4 +1,14 @@
-## Hi there 👋
+## Introduction
+
+I am Taiki Yamamoto
+
+## Programing Languages
+
+
+## Frameworks and Library
+
+
+## DB and Tools etc
 
 <!--
 **yamataiki/yamataiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
