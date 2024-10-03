@@ -1,7 +1,7 @@
 ## Introduction
 
 I am Taiki Yamamoto  
-I am a student at Shizuoka University and working as an engineer in long internship.
+I am a student at Shizuoka University and working as an engineer in internship.
 
 At working, I use Spring and Laravel.
 
