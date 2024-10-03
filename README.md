@@ -1,8 +1,8 @@
 ## Introduction
 
-I am Taiki Yamamoto\n
+I am Taiki Yamamoto  
 I am a student at Shizuoka University and working as an engineer in long internship.
-\n
+
 At working, I use Spring and Laravel.
 
 ## Programing Languages
