@@ -3,12 +3,13 @@
 I am Taiki Yamamoto
 
 ## Programing Languages
-
+![](https://skillicons.dev/icons?i=java,python,php,html,css,js)
 
 ## Frameworks and Library
-
+![](https://skillicons.dev/icons?i=django,laravel)
 
 ## DB and Tools etc
+![](https://skillicons.dev/icons?i=postgresql)
 
 <!--
 **yamataiki/yamataiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
