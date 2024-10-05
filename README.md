@@ -1,7 +1,7 @@
 ## Introduction
 
 I am Taiki Yamamoto  
-I am a student at Shizuoka University and working as an engineer in internship.
+I am a student of Shizuoka University and working as an engineer in internship.
 
 At working, I use Spring and Laravel.
 
@@ -12,7 +12,10 @@ At working, I use Spring and Laravel.
 ![](https://skillicons.dev/icons?i=spring,django,laravel,jquery)
 
 ## DB and Tools etc
-![](https://skillicons.dev/icons?i=postgresql,mysql,docker,git,linux)
+![](https://skillicons.dev/icons?i=postgresql,mysql,docker,git,linux,vite)
+
+## Learning
+![](https://skillicons.dev/icons?i=ts)
 
 <!--
 **yamataiki/yamataiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
