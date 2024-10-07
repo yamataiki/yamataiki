@@ -15,7 +15,7 @@ At working, I use Spring and Laravel.
 ![](https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,gitlab,linux,vite,wordpress)
 
 ## Learning
-![](https://skillicons.dev/icons?i=ts)
+![](https://skillicons.dev/icons?i=ts,react)
 
 <!--
 **yamataiki/yamataiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
