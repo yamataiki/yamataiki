@@ -6,15 +6,15 @@ I am a student of Shizuoka University and working as an engineer in internship.
 At working, I use Spring and Laravel.
 
 ## Programing Languages
-![](https://skillicons.dev/icons?i=java,python,php,html,css,js)
+![](https://skillicons.dev/icons?i=java,python,php,html,css,js,ts)
 
 ## Frameworks and Library
-![](https://skillicons.dev/icons?i=spring,django,laravel,jquery,bootstrap)
+![](https://skillicons.dev/icons?i=spring,django,laravel,react,jquery,bootstrap)
 
 ## DB and Tools etc
 ![](https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,gitlab,linux,vite,wordpress)
 
-## Learning
+<!-- ## Learning
 ![](https://skillicons.dev/icons?i=ts,react)
 
 <!--
