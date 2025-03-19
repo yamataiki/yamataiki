@@ -19,7 +19,7 @@ At working, I use Spring and Laravel.
 
 ## Products
 
-### Recraku[開発中　2025年3月末に第1リリースを予定]
+### Recraku[開発中　2025年4月末に第1リリースを予定]
 
 『就活をラクに』をコンセプトに、Web系エンジニア向けの面接時の対話管理・分析に特化した就活支援アプリ。
 
