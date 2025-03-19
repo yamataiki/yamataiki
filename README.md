@@ -17,6 +17,14 @@ At working, I use Spring and Laravel.
 ## Learning
 ![](https://skillicons.dev/icons?i=ts,react)
 
+## Products
+
+### Recraku[開発中　2025年3月末に第1リリースを予定]
+
+『就活をラクに』をコンセプトに、Web系エンジニア向けの面接時の対話管理・分析に特化した就活支援アプリ。
+
+音声認識とChatGPTを組み合わせて受け答えを可視化し、具体的なフィードバックで対策を効率化します。
+
 
 <!--
 **yamataiki/yamataiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
