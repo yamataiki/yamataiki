@@ -9,7 +9,7 @@ At working, I use Spring and Laravel.
 ![](https://skillicons.dev/icons?i=java,python,php,html,css,scss,js)
 
 ## Frameworks and Library
-![](https://skillicons.dev/icons?i=spring,django,laravel,jquery,bootstrap)
+![](https://skillicons.dev/icons?i=spring,django,laravel,jquery,bootstrap,pytorch)
 
 ## DB and Tools etc
 ![](https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,gitlab,linux,vite,wordpress,figma)
