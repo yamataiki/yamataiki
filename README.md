@@ -9,17 +9,13 @@ At working, I use Spring and Laravel.
 ![](https://skillicons.dev/icons?i=java,python,php,go,ruby,html,css,scss,js)
 
 ## Frameworks and Library
-![](https://skillicons.dev/icons?i=spring,django,laravel,rails,jquery,bootstrap,pytorch)
+![](https://skillicons.dev/icons?i=spring,django,laravel,rails,jquery,react,bootstrap,pytorch)
 
 ## DB and Tools etc
 ![](https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,gitlab,linux,vite,wordpress,figma)
 
 ## Learning
-![](https://skillicons.dev/icons?i=ts,react)
-
-## Most Used Language ※
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yamataiki&show_icons=true&locale=en&layout=compact)
-[![Yamataiki's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamataiki&show_icons=true&locale=ja&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://skillicons.dev/icons?i=ts)
 
 ## Products
 
