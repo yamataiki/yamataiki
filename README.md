@@ -19,6 +19,7 @@ At working, I use Spring and Laravel.
 
 ## Most Used Language ※
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yamataiki&show_icons=true&locale=en&layout=compact)
+[![Yamataiki's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamataiki&show_icons=true&locale=ja&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Products
 
