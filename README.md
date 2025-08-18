@@ -17,6 +17,9 @@ At working, I use Spring and Laravel.
 ## Learning
 ![](https://skillicons.dev/icons?i=ts,react)
 
+## Most Used Language ※
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+
 ## Products
 
 ### Recraku[開発中　2025年6月に第1リリースを予定]
