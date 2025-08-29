@@ -3,7 +3,7 @@
 I am Taiki Yamamoto  
 I am a student of Shizuoka University and working as an engineer in internship.
 
-At working, I use Spring and Laravel.
+At working, I use Spring.
 
 ## Programing Languages
 ![](https://skillicons.dev/icons?i=java,python,php,go,ruby,html,css,scss,js)
