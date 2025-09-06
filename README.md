@@ -1,7 +1,7 @@
 ## Introduction
 
 I am Taiki Yamamoto  
-I am a student of Shizuoka University and working as an engineer in internship.
+I am a master's student of Shizuoka University and working as an engineer in internship.
 
 At working, I use Spring.
 
