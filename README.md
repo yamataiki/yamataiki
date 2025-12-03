@@ -12,7 +12,7 @@ At working, I use Spring.
 ![](https://skillicons.dev/icons?i=spring,django,laravel,rails,jquery,react,bootstrap,pytorch)
 
 ## DB and Tools etc
-![](https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,gitlab,linux,vite,wordpress,figma)
+![](https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,gitlab,linux,vite,wordpress,figma,datadog,looker)
 
 ## Learning
 ![](https://skillicons.dev/icons?i=ts)
