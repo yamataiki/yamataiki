@@ -17,10 +17,6 @@ At working, I use Spring.
 ## Learning
 ![](https://skillicons.dev/icons?i=ts)
 
-## Products
-
-### Recraku[開発中]
-
 
 <!--
 **yamataiki/yamataiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
