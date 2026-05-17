@@ -14,9 +14,6 @@ At work, I use Spring.
 ## DB, Infra and Tools
 ![](https://skillicons.dev/icons?i=postgresql,mysql,supabase,docker,git,github,gitlab,linux,vite,wordpress,figma,datadog,looker,vercel,cloudflare,gcp)
 
-![](https://github-readme-stats.vercel.app/api?username=yamataiki&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yamataiki&layout=compact&theme=tokyonight)
-
 <!--
 **yamataiki/yamataiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
