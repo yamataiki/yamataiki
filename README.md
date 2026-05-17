@@ -1,22 +1,21 @@
 ## Introduction
 
 I am Taiki Yamamoto  
-I am a master's student of Shizuoka University and working as an engineer in internship.
+I am a master's student at Shizuoka University and working as an engineer in internship.
 
-At working, I use Spring.
+At work, I use Spring.
 
-## Programing Languages
-![](https://skillicons.dev/icons?i=java,python,php,go,ruby,html,css,scss,js)
+## Programming Languages
+![](https://skillicons.dev/icons?i=java,python,php,go,ruby,html,css,scss,js,ts)
 
-## Frameworks and Library
-![](https://skillicons.dev/icons?i=spring,django,laravel,rails,jquery,react,bootstrap,pytorch)
+## Frameworks and Libraries
+![](https://skillicons.dev/icons?i=spring,django,laravel,rails,fastapi,jquery,react,nextjs,bootstrap,pytorch)
 
-## DB and Tools etc
-![](https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,gitlab,linux,vite,wordpress,figma,datadog,looker)
+## DB, Infra and Tools
+![](https://skillicons.dev/icons?i=postgresql,mysql,supabase,docker,git,github,gitlab,linux,vite,wordpress,figma,datadog,looker,vercel,cloudflare,gcp)
 
-## Learning
-![](https://skillicons.dev/icons?i=ts)
-
+![](https://github-readme-stats.vercel.app/api?username=yamataiki&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yamataiki&layout=compact&theme=tokyonight)
 
 <!--
 **yamataiki/yamataiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
