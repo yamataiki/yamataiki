@@ -6,7 +6,7 @@ I am a master's student at Shizuoka University and working as an engineer in int
 At work, I use Spring.
 
 ## Programming Languages
-![](https://skillicons.dev/icons?i=java,python,php,go,ruby,html,css,scss,js,ts)
+![](https://skillicons.dev/icons?i=java,python,php,go,ruby,c,cpp,html,css,scss,js,ts)
 
 ## Frameworks and Libraries
 ![](https://skillicons.dev/icons?i=spring,django,laravel,rails,fastapi,jquery,react,nextjs,bootstrap,pytorch)
