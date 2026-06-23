@@ -5,6 +5,8 @@ I am a master's student in the Morita Lab at Shizuoka University,
 researching cognitive science and computational modeling of communication —
 specifically how agents form common ground through interaction.
 
+https://drive.google.com/drive/folders/1yd8JzYAHShRe7COhkLgE2yO4mPt8qYgd?usp=sharing
+
 I am also working as an engineer in an internship, where I use Spring.
 
 At work, I use Spring.
