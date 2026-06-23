@@ -9,6 +9,9 @@ I am also working as an engineer in an internship, where I use Spring.
 
 At work, I use Spring.
 
+curl -s http://localhost:7861/sdapi/v1/sd-models > %TEMP%\m.json
+notepad %TEMP%\m.json
+
 ## Programming Languages
 ![](https://skillicons.dev/icons?i=java,python,php,ruby,c,cpp,html,css,scss,js,ts)
 
